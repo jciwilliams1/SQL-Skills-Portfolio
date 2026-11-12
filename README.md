@@ -11,19 +11,13 @@
 
 ## 📌 Project Overview
 
-This project showcases SQL skills through banking-related scenarios involving lending, credit utilization, interest calculations, and transaction analysis.
+This project demonstrates my SQL skills through practical banking-related scenarios involving lending, credit utilization, interest calculations, and transaction analysis.
 
 Using SQL in Snowflake, I developed queries to retrieve, filter, sort, and calculate data based on specific business requirements.
 
 The queries highlight my progression from foundational SQL concepts to intermediate techniques.
 
 *These analyses are based on simulated business requests.*
-
----
-
-## 🎯 Project Objective
-
-Apply SQL techniques to banking-related business requests by retrieving relevant records, filtering data based on specific conditions, and performing calculations to support financial data analysis.
 
 ---
 
@@ -84,8 +78,6 @@ The AVP of Lending wants to review the ten highest-value approved Mortgage and A
 
 Retrieves approved Mortgage and Auto loans exceeding $20,000 and displays the ten highest loan amounts.
 
-**Project File**
-
 [View Completed SQL Query](Beginner_SQL/01_approved_loan_portfolio.sql)
 
 ---
@@ -111,8 +103,6 @@ The AVP of Lending wants to review the ten highest-value approved loans between 
 
 Filters approved loans within the specified amount range, excludes Mortgage and Auto loans, and displays the ten highest loan amounts.
 
-**Project File**
-
 [View Completed SQL Query](Beginner_SQL/02_personal_loan_review.sql)
 
 ---
@@ -135,8 +125,6 @@ The Finance department is preparing for an upcoming stress test and wants to rev
 
 Calculates available credit and credit utilization rates, then filters accounts based on the specified utilization threshold.
 
-**Project File**
-
 [View Completed SQL Query](Intermediate_SQL/03_credit_utilization.sql)
 
 ---
@@ -158,8 +146,6 @@ A regional branch manager wants to estimate monthly interest costs for Mortgage 
 **What the Query Does**
 
 Calculates an estimated monthly interest cost using the exercise's specified formula for qualifying Mortgage loans.
-
-**Project File**
 
 [View Completed SQL Query](Intermediate_SQL/04_mortgage_interest.sql)
 
@@ -184,26 +170,12 @@ The Customer Success department wants to review withdrawal transactions during 2
 
 Retrieves qualifying withdrawal transactions, applies the specified deficit calculation and conditions, and organizes the results for review.
 
-**Project File**
-
 [View Completed SQL Query](Intermediate_SQL/05_withdrawal_deficit.sql)
 
 ---
 
-## 📂 Project Files & Structure
+## 🎯 Key Takeaways
 
-The repository organizes completed SQL queries by skill level.
+This project demonstrates my ability to apply SQL techniques to practical banking-related scenarios, from retrieving and filtering data to performing calculations and analyzing financial information.
 
-    Banking-Operations-Analysis/
-    |
-    |-- README.md
-    |
-    |-- Beginner_SQL/
-    |   |-- 01_approved_loan_portfolio.sql
-    |   |-- 02_personal_loan_review.sql
-    |
-    |-- Intermediate_SQL/
-        |-- 03_credit_utilization.sql
-        |-- 04_mortgage_interest.sql
-        |-- 05_withdrawal_deficit.sql
-
+Through these queries, I strengthened my ability to interpret business requests, translate requirements into SQL, and organize results for analysis.
