@@ -1,5 +1,5 @@
 
-# 💾 SQL Banking Analysis Portfolio
+# 💾 Banking Operations Analysis
 
 **SQL | Snowflake | Data Analysis**
 
