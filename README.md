@@ -195,7 +195,7 @@ Through these SQL analyses, I demonstrated the ability to:
 
 ## 📂 Project Structure
 
-    SQL-Skills-Portfolio/
+    Banking-Operations-Analysis/
     |
     |-- README.md
     |
