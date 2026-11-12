@@ -1,4 +1,3 @@
-
 # 💾 Banking Operations Analysis
 
 **SQL | Snowflake | Data Analysis**
@@ -7,11 +6,11 @@
 
 ## 📌 Project Overview
 
-This portfolio demonstrates my SQL skills through practical banking-related scenarios involving lending, credit utilization, interest calculations, and transaction analysis.
+This project demonstrates my SQL skills through practical banking-related scenarios involving lending, credit utilization, interest calculations, and transaction analysis.
 
 Using SQL in Snowflake, I developed queries to retrieve, filter, sort, and calculate data based on specific business requirements.
 
-The portfolio highlights my progression from foundational SQL concepts to intermediate techniques through increasingly complex queries.
+The queries highlights my progression from foundational SQL concepts to intermediate techniques.
 
 *These analyses are based on simulated business requests designed to demonstrate practical SQL and data analysis skills.*
 
@@ -24,6 +23,7 @@ The portfolio highlights my progression from foundational SQL concepts to interm
 - **GitHub** — Organizing and showcasing SQL queries
 
 ---
+<!-- THIS IS A COMMENT: List the skills demonstrated in the repository. That way, hiring managers can click the SQL files and verify them. -->
 
 ## 📈 SQL Skills Progression
 
@@ -183,13 +183,11 @@ Retrieves qualifying withdrawal transactions, applies the specified calculations
 
 Through these SQL analyses, I demonstrated the ability to:
 
-- Retrieve specific information from database tables.
-- Apply multiple filtering conditions to identify relevant records.
-- Sort and limit query results based on business requirements.
-- Perform arithmetic calculations and create calculated fields.
-- Use column aliases to improve the readability of query results.
-- Apply SQL techniques to realistic financial and banking scenarios.
-- Organize and document SQL queries using GitHub.
+- Retrieve, filter, and organize data using SQL.
+- Apply multiple conditions to identify specific records.
+- Sort and limit query results.
+- Perform calculations and create meaningful column aliases.
+- Translate simulated banking business requests into SQL querie.
 
 ---
 
@@ -208,3 +206,4 @@ Through these SQL analyses, I demonstrated the ability to:
         |-- 04_mortgage_interest.sql
         |-- 05_withdrawal_deficit.sql
 
+<!-- THIS IS A COMMENT: Make sure the actual repository folders and SQL filenames match the links in the README. -->
