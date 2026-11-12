@@ -1,5 +1,9 @@
 # 💾 Banking Operations Analysis
 
+<p align="center">
+  <img width="600" alt="Banking Operations Analysis" src="https://github.com/user-attachments/assets/aed7a8be-95c0-4185-9293-d723cbe23461" />
+</p>
+
 **SQL | Snowflake | Data Analysis**
 
 ---
